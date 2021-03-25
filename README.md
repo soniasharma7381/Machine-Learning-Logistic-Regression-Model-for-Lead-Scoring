@@ -1,4 +1,4 @@
-# Data-Science-and-Machine-Learning-Model : Lead Score
+# Machine Learning Logistic Regression Model for Lead Scoring Lead Score
 
 An education company sells online courses to industry professionals. On any given day, many professionals who are interested in the courses land on their website and browse for courses. When these people fill up a form providing their email address or phone number, they are classified to be a lead.
 
